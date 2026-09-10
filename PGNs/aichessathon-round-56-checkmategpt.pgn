@@ -1,0 +1,12 @@
+[Event "AI Chessathon Rated"]
+[Site "aichessathon.com"]
+[Date "2026.09.07"]
+[Round "56"]
+[White "CheckmateGPT"]
+[Black "Endgame"]
+[Result "1/2-1/2"]
+[FEN "r2qkb1r/pp3ppp/2npbn2/3Np3/4P3/1N3P2/PPP3PP/R1BQKB1R b KQkq - 3 8"]
+[SetUp "1"]
+[Termination "threefold_repetition"]
+
+8... Be7 { [%clk 0:01:54.454] } 9. Be2 { [%clk 0:01:56.998] } 9... Rc8 { [%clk 0:01:46.267] } 10. Be3 { [%clk 0:01:54.992] } 10... Nxd5 { [%clk 0:01:42.167] } 11. exd5 { [%clk 0:01:53.013] } 11... Nb4 { [%clk 0:01:36.174] } 12. dxe6 { [%clk 0:01:50.088] } 12... Nxc2+ { [%clk 0:01:27.128] } 13. Kf2 { [%clk 0:01:48.507] } 13... Nxe3 { [%clk 0:01:22.86] } 14. exf7+ { [%clk 0:01:44.149] } 14... Kxf7 { [%clk 0:01:14.995] } 15. Kxe3 { [%clk 0:01:42.909] } 15... Qb6+ { [%clk 0:01:10.459] } 16. Ke4 { [%clk 0:01:41.848] } 16... Qb4+ { [%clk 0:01:05.599] } 17. Ke3 { [%clk 0:01:37.637] } 17... Qb6+ { [%clk 0:00:59.272] } 18. Kd2 { [%clk 0:01:35.546] } 18... Qb4+ { [%clk 0:00:55.021] } 19. Ke3 { [%clk 0:01:33] } 19... Qb6+ { [%clk 0:00:49.914] } 1/2-1/2
