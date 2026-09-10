@@ -1,0 +1,31 @@
+game  1  rnbqkb1r/pppppppp/5n result=1/2-1/2  reason=draw     fullmoves=57
+game  2  rnbqkb1r/pppppppp/5n result=1/2-1/2  reason=draw     fullmoves=44
+game  3  r1bqkbnr/pppp1ppp/2n result=1/2-1/2  reason=draw     fullmoves=61
+game  4  r1bqkbnr/pppp1ppp/2n result=1/2-1/2  reason=draw     fullmoves=28
+game  5  r1bqkbnr/pp1ppppp/2n result=1/2-1/2  reason=draw     fullmoves=44
+game  6  r1bqkbnr/pp1ppppp/2n result=1/2-1/2  reason=draw     fullmoves=32
+game  7  rnbqkbnr/pp3ppp/4p3/ result=1-0      reason=mate     fullmoves=36
+game  8  rnbqkbnr/pp3ppp/4p3/ result=1/2-1/2  reason=draw     fullmoves=24
+game  9  rnbqkb1r/pp2pppp/2p2 result=1/2-1/2  reason=draw     fullmoves=40
+game 10  rnbqkb1r/pp2pppp/2p2 result=1/2-1/2  reason=draw     fullmoves=44
+game 11  r1bqkb1r/pppp1ppp/2n result=1/2-1/2  reason=draw     fullmoves=54
+game 12  r1bqkb1r/pppp1ppp/2n result=1/2-1/2  reason=draw     fullmoves=69
+game 13  rnbqkb1r/pp1ppppp/5n result=1/2-1/2  reason=draw     fullmoves=29
+game 14  rnbqkb1r/pp1ppppp/5n result=1-0      reason=mate     fullmoves=57
+game 15  r1bqk2r/pppp1ppp/2n2 result=1-0      reason=mate     fullmoves=65
+game 16  r1bqk2r/pppp1ppp/2n2 result=1/2-1/2  reason=draw     fullmoves=25
+game 17  rnbqkbnr/pp2pppp/8/2 result=1-0      reason=mate     fullmoves=73
+game 18  rnbqkbnr/pp2pppp/8/2 result=1/2-1/2  reason=draw     fullmoves=70
+game 19  rnbqkb1r/pppp1ppp/5n result=1/2-1/2  reason=draw     fullmoves=54
+game 20  rnbqkb1r/pppp1ppp/5n result=1-0      reason=mate     fullmoves=84
+game 21  r1bqkbnr/pppp1ppp/2n result=1/2-1/2  reason=draw     fullmoves=60
+game 22  r1bqkbnr/pppp1ppp/2n result=1/2-1/2  reason=draw     fullmoves=63
+game 23  rnbqkb1r/ppp1pppp/5n result=1/2-1/2  reason=draw     fullmoves=33
+game 24  rnbqkb1r/ppp1pppp/5n result=1/2-1/2  reason=draw     fullmoves=46
+
+=== SUMMARY ===
+games: 24
+mean fullmoves: 49.666666666666664
+median: 54
+min/max: 24 84
+all: [24, 25, 28, 29, 32, 33, 36, 40, 44, 44, 44, 46, 54, 54, 57, 57, 60, 61, 63, 65, 69, 70, 73, 84]

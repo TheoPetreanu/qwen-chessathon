@@ -1,0 +1,29 @@
+gauntlet: agent@engine_texel vs agent@engine | 12 pairs (24 games) | 10000ms+100ms | 4 workers
+   1 games  +0 =1 -0   -0 Elo +/- 0   137s   
+   2 games  +0 =2 -0   -0 Elo +/- 0   137s   
+   3 games  +0 =3 -0   -0 Elo +/- 0   141s   
+   4 games  +0 =3 -1   -89 Elo +/- 173   147s   
+   5 games  +0 =4 -1   -70 Elo +/- 134   163s   
+   6 games  +0 =5 -1   -58 Elo +/- 110   165s   
+   7 games  +0 =5 -2   -102 Elo +/- 135   166s   
+   8 games  +0 =6 -2   -89 Elo +/- 116   178s   
+   9 games  +0 =6 -3   -120 Elo +/- 128   191s   
+  10 games  +0 =7 -3   -108 Elo +/- 113   194s   
+  11 games  +0 =8 -3   -97 Elo +/- 102   195s   
+  12 games  +0 =9 -3   -89 Elo +/- 93   206s   
+  13 games  +0 =10 -3   -82 Elo +/- 86   220s   
+  14 games  +0 =10 -4   -102 Elo +/- 92   221s   
+  15 games  +0 =11 -4   -95 Elo +/- 86   227s   
+  16 games  +0 =12 -4   -89 Elo +/- 80   234s   
+  17 games  +0 =13 -4   -83 Elo +/- 76   248s   
+  18 games  +0 =13 -5   -99 Elo +/- 80   250s   
+  19 games  +0 =14 -5   -94 Elo +/- 75   257s   
+  20 games  +0 =15 -5   -89 Elo +/- 72   262s   
+  21 games  +0 =16 -5   -84 Elo +/- 68   273s   
+  22 games  +0 =17 -5   -80 Elo +/- 65   279s   
+  23 games  +0 =17 -6   -93 Elo +/- 68   286s   
+  24 games  +0 =18 -6   -89 Elo +/- 65   289s   
+
+=== FINAL ===
++0 =18 -6  out of 24   score 37.5%   -89 Elo +/- 65
+no crashes, illegal moves, or flags

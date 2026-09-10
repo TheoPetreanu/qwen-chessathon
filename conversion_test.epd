@@ -1,0 +1,17 @@
+# Conversion test set -- winning positions Endgame reached and then drew.
+# Extracted from rounds 52-58 (all PRE-repfix). Depth-20 Stockfish evals.
+# PASS = our engine keeps the eval winning AND makes progress (does NOT repeat /
+# shuffle). The listed bm is Stockfish's move; exact-match is not required, the
+# test is "does it convert or does it walk into the threefold again".
+#
+# R53 vs Agread   White +708 -> drew. Repeated Qb6/Qb2 instead of pushing the passer.
+r1q1r3/1R3ppk/p2P2bp/2P1n3/3Np1P1/B3P2P/1Q2BP2/6K1 w - - bm c6; id "conv-r53-agread"; c0 "engine played Qb6, drew by threefold";
+#
+# R58 vs AGS      White +707 -> drew. Shuffled Kg2/Kh3 + queen checks instead of consolidating.
+5k2/p5p1/4p2p/4p3/2Q3PP/1PN2P2/P2q2K1/8 w - - bm Ne2; id "conv-r58-ags"; c0 "engine played Kh3, drew by threefold";
+#
+# R54 vs NajeebA  Black winning K+R+P ending -> drew. King shuffle instead of centralising.
+8/8/3p3p/3PkPp1/6P1/7P/r1p5/2K5 b - - bm Kd4; id "conv-r54-najeeba"; c0 "engine played Kf6, drew; endgame technique, not repetition";
+#
+# R52 vs Nakamura White +331 -> squandered, later saved as a draw by perpetual. Least clean.
+6k1/3brp1p/Q2b4/2ppqp2/3N4/4P1P1/Pr3PBP/2RR2K1 w - - bm Nf3; id "conv-r52-nakamura"; c0 "engine played Nb3, dropped to +32";

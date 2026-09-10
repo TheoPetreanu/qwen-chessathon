@@ -1,0 +1,16 @@
+gauntlet: agent@engine vs agent@baseline | 200 pairs (400 games) | 10000ms+100ms | 3 workers
+   1 games  +1 =0 -0   +1600 Elo +/- 0   82s   
+   2 games  +2 =0 -0   +1600 Elo +/- 0   83s   
+   3 games  +3 =0 -0   +1600 Elo +/- 0   89s   
+   4 games  +4 =0 -0   +1600 Elo +/- 0   105s   
+   5 games  +5 =0 -0   +1600 Elo +/- 0   107s   
+   6 games  +6 =0 -0   +1600 Elo +/- 0   114s   
+   7 games  +7 =0 -0   +1600 Elo +/- 0   128s   
+   8 games  +8 =0 -0   +1600 Elo +/- 0   130s   
+   9 games  +8 =1 -0   +492 Elo +/- 655   133s   
+  10 games  +9 =1 -0   +512 Elo +/- 644   152s   
+  11 games  +10 =1 -0   +529 Elo +/- 635   154s   
+  12 games  +11 =1 -0   +545 Elo +/- 627   158s   
+  13 games  +12 =1 -0   +559 Elo +/- 619   175s   
+  14 games  +13 =1 -0   +573 Elo +/- 612   178s   
+  15 games  +14 =1 -0   +585 Elo +/- 606   182s   

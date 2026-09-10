@@ -1,0 +1,25 @@
+game  0  opening=rnbqkb1r/pppppppp/5n result=0.5  samples=8  total=8
+game  1  opening=rnbqkb1r/pppppppp/5n result=0.5  samples=21  total=29
+game  2  opening=r1bqkbnr/pppp1ppp/2n result=1.0  samples=25  total=54
+game  3  opening=r1bqkbnr/pppp1ppp/2n result=0.5  samples=8  total=62
+game  4  opening=r1bqkbnr/pp1ppppp/2n result=0.5  samples=8  total=70
+game  5  opening=r1bqkbnr/pp1ppppp/2n result=0.5  samples=22  total=92
+game  6  opening=rnbqkbnr/pp3ppp/4p3/ result=0.5  samples=13  total=105
+game  7  opening=rnbqkbnr/pp3ppp/4p3/ result=0.5  samples=15  total=120
+game  8  opening=rnbqkb1r/pp2pppp/2p2 result=0.5  samples=7  total=127
+game  9  opening=rnbqkb1r/pp2pppp/2p2 result=0.5  samples=7  total=134
+game 10  opening=r1bqkb1r/pppp1ppp/2n result=0.5  samples=23  total=157
+game 11  opening=r1bqkb1r/pppp1ppp/2n result=0.5  samples=21  total=178
+game 12  opening=rnbqkb1r/pp1ppppp/5n result=1.0  samples=21  total=199
+game 13  opening=rnbqkb1r/pp1ppppp/5n result=1.0  samples=29  total=228
+game 14  opening=r1bqk2r/pppp1ppp/2n2 result=0.5  samples=8  total=236
+game 15  opening=r1bqk2r/pppp1ppp/2n2 result=1.0  samples=18  total=254
+game 16  opening=rnbqkbnr/pp2pppp/8/2 result=0.0  samples=23  total=277
+game 17  opening=rnbqkbnr/pp2pppp/8/2 result=0.5  samples=14  total=291
+game 18  opening=rnbqkb1r/pppp1ppp/5n result=0.5  samples=14  total=305
+game 19  opening=rnbqkb1r/pppp1ppp/5n result=0.0  samples=25  total=330
+game 20  opening=r1bqkbnr/pppp1ppp/2n result=0.5  samples=29  total=359
+game 21  opening=r1bqkbnr/pppp1ppp/2n result=0.5  samples=20  total=379
+game 22  opening=rnbqkb1r/ppp1pppp/5n result=0.5  samples=12  total=391
+game 23  opening=rnbqkb1r/ppp1pppp/5n result=0.5  samples=4  total=395
+wrote 395 samples to tools/texel_data.txt

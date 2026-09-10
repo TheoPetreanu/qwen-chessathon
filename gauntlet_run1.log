@@ -1,0 +1,29 @@
+gauntlet: agent@engine vs agent@baseline | 12 pairs (24 games) | 10000ms+100ms | 4 workers
+   1 games  +1 =0 -0   +1600 Elo +/- 0   89s   
+   2 games  +2 =0 -0   +1600 Elo +/- 0   91s   
+   3 games  +3 =0 -0   +1600 Elo +/- 0   96s   
+   4 games  +4 =0 -0   +1600 Elo +/- 0   97s   
+   5 games  +5 =0 -0   +1600 Elo +/- 0   114s   
+   6 games  +5 =1 -0   +417 Elo +/- 696   116s   
+   7 games  +6 =1 -0   +446 Elo +/- 680   116s   
+   8 games  +7 =1 -0   +470 Elo +/- 667   117s   
+   9 games  +8 =1 -0   +492 Elo +/- 655   138s   
+  10 games  +9 =1 -0   +512 Elo +/- 644   141s   
+  11 games  +10 =1 -0   +529 Elo +/- 635   143s   
+  12 games  +11 =1 -0   +545 Elo +/- 627   143s   
+  13 games  +12 =1 -0   +559 Elo +/- 619   163s   
+  14 games  +13 =1 -0   +573 Elo +/- 612   166s   
+  15 games  +14 =1 -0   +585 Elo +/- 606   167s   
+  16 games  +15 =1 -0   +597 Elo +/- 600   169s   
+  17 games  +16 =1 -0   +607 Elo +/- 594   190s   
+  18 games  +17 =1 -0   +618 Elo +/- 589   190s   
+  19 games  +18 =1 -0   +627 Elo +/- 584   191s   
+  20 games  +19 =1 -0   +636 Elo +/- 579   194s   
+  21 games  +20 =1 -0   +645 Elo +/- 574   213s   
+  22 games  +21 =1 -0   +653 Elo +/- 570   215s   
+  23 games  +22 =1 -0   +661 Elo +/- 566   216s   
+  24 games  +23 =1 -0   +669 Elo +/- 562   221s   
+
+=== FINAL ===
++23 =1 -0  out of 24   score 97.9%   +669 Elo +/- 562
+no crashes, illegal moves, or flags
