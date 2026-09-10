@@ -1,0 +1,17 @@
+    25 kept /   195 tried   32s
+    50 kept /   489 tried   82s
+    75 kept /   795 tried   133s
+   100 kept /  1057 tried   177s
+   125 kept /  1279 tried   213s
+   150 kept /  1615 tried   270s
+   175 kept /  1775 tried   297s
+   200 kept /  2045 tried   342s
+   225 kept /  2280 tried   381s
+   250 kept /  2512 tried   420s
+   275 kept /  2797 tried   468s
+   300 kept /  2959 tried   495s
+   325 kept /  3288 tried   548s
+   350 kept /  3545 tried   590s
+   375 kept /  3791 tried   632s
+   400 kept /  4236 tried   706s
+wrote tests/openings_gen.fen: 400 positions, score mean +4.2 sd 27.9, 706s

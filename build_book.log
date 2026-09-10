@@ -1,0 +1,638 @@
+games=3523  targets=9680  cached=0  todo=9680  workers=12  30000ms each
+targets by our-move depth: d1=1107  d2=3598  d3=4975
+estimated 6.7 h (before contention)
+     25/9680  0.05 h elapsed, ~18.38 h left  (25 stored)
+     50/9680  0.06 h elapsed, ~12.38 h left  (50 stored)
+     75/9680  0.08 h elapsed, ~10.37 h left  (75 stored)
+    100/9680  0.10 h elapsed, ~9.36 h left  (100 stored)
+    125/9680  0.11 h elapsed, ~8.75 h left  (125 stored)
+    150/9680  0.13 h elapsed, ~8.33 h left  (150 stored)
+    175/9680  0.15 h elapsed, ~8.03 h left  (175 stored)
+    200/9680  0.16 h elapsed, ~7.81 h left  (200 stored)
+    225/9680  0.18 h elapsed, ~7.63 h left  (225 stored)
+    250/9680  0.20 h elapsed, ~7.48 h left  (250 stored)
+    275/9680  0.21 h elapsed, ~7.35 h left  (275 stored)
+    300/9680  0.23 h elapsed, ~7.24 h left  (300 stored)
+    325/9680  0.26 h elapsed, ~7.37 h left  (325 stored)
+    350/9680  0.27 h elapsed, ~7.27 h left  (350 stored)
+    375/9680  0.29 h elapsed, ~7.18 h left  (375 stored)
+    400/9680  0.31 h elapsed, ~7.10 h left  (400 stored)
+    425/9680  0.32 h elapsed, ~7.03 h left  (425 stored)
+    450/9680  0.34 h elapsed, ~6.96 h left  (450 stored)
+    475/9680  0.36 h elapsed, ~6.90 h left  (475 stored)
+    500/9680  0.37 h elapsed, ~6.85 h left  (500 stored)
+    525/9680  0.39 h elapsed, ~6.80 h left  (525 stored)
+    550/9680  0.41 h elapsed, ~6.75 h left  (550 stored)
+    575/9680  0.42 h elapsed, ~6.70 h left  (575 stored)
+    600/9680  0.44 h elapsed, ~6.66 h left  (600 stored)
+    625/9680  0.46 h elapsed, ~6.73 h left  (625 stored)
+    650/9680  0.48 h elapsed, ~6.68 h left  (650 stored)
+    675/9680  0.50 h elapsed, ~6.64 h left  (675 stored)
+    700/9680  0.51 h elapsed, ~6.60 h left  (700 stored)
+    725/9680  0.53 h elapsed, ~6.56 h left  (725 stored)
+    750/9680  0.55 h elapsed, ~6.52 h left  (750 stored)
+    775/9680  0.56 h elapsed, ~6.49 h left  (775 stored)
+    800/9680  0.58 h elapsed, ~6.45 h left  (800 stored)
+    825/9680  0.60 h elapsed, ~6.42 h left  (825 stored)
+    850/9680  0.61 h elapsed, ~6.39 h left  (850 stored)
+    875/9680  0.63 h elapsed, ~6.36 h left  (875 stored)
+    900/9680  0.65 h elapsed, ~6.33 h left  (900 stored)
+    925/9680  0.67 h elapsed, ~6.37 h left  (925 stored)
+    950/9680  0.69 h elapsed, ~6.33 h left  (950 stored)
+    975/9680  0.71 h elapsed, ~6.30 h left  (975 stored)
+   1000/9680  0.72 h elapsed, ~6.27 h left  (1000 stored)
+   1025/9680  0.74 h elapsed, ~6.24 h left  (1025 stored)
+   1050/9680  0.76 h elapsed, ~6.22 h left  (1050 stored)
+   1075/9680  0.77 h elapsed, ~6.19 h left  (1075 stored)
+   1100/9680  0.79 h elapsed, ~6.16 h left  (1100 stored)
+   1125/9680  0.81 h elapsed, ~6.13 h left  (1125 stored)
+   1150/9680  0.82 h elapsed, ~6.11 h left  (1150 stored)
+   1175/9680  0.84 h elapsed, ~6.08 h left  (1175 stored)
+   1200/9680  0.86 h elapsed, ~6.05 h left  (1200 stored)
+   1225/9680  0.88 h elapsed, ~6.08 h left  (1225 stored)
+   1250/9680  0.90 h elapsed, ~6.05 h left  (1250 stored)
+   1275/9680  0.91 h elapsed, ~6.03 h left  (1275 stored)
+   1300/9680  0.93 h elapsed, ~6.00 h left  (1300 stored)
+   1325/9680  0.95 h elapsed, ~5.98 h left  (1325 stored)
+   1350/9680  0.96 h elapsed, ~5.95 h left  (1350 stored)
+   1375/9680  0.98 h elapsed, ~5.93 h left  (1375 stored)
+   1400/9680  1.00 h elapsed, ~5.90 h left  (1400 stored)
+   1425/9680  1.01 h elapsed, ~5.88 h left  (1425 stored)
+   1450/9680  1.03 h elapsed, ~5.86 h left  (1450 stored)
+   1475/9680  1.05 h elapsed, ~5.83 h left  (1475 stored)
+   1500/9680  1.07 h elapsed, ~5.81 h left  (1500 stored)
+   1525/9680  1.09 h elapsed, ~5.83 h left  (1525 stored)
+   1550/9680  1.11 h elapsed, ~5.80 h left  (1550 stored)
+   1575/9680  1.12 h elapsed, ~5.78 h left  (1575 stored)
+   1600/9680  1.14 h elapsed, ~5.75 h left  (1600 stored)
+   1625/9680  1.16 h elapsed, ~5.73 h left  (1625 stored)
+   1650/9680  1.17 h elapsed, ~5.71 h left  (1650 stored)
+   1675/9680  1.19 h elapsed, ~5.69 h left  (1675 stored)
+   1700/9680  1.21 h elapsed, ~5.66 h left  (1700 stored)
+   1725/9680  1.22 h elapsed, ~5.64 h left  (1725 stored)
+   1750/9680  1.24 h elapsed, ~5.62 h left  (1750 stored)
+   1775/9680  1.26 h elapsed, ~5.60 h left  (1775 stored)
+   1800/9680  1.27 h elapsed, ~5.58 h left  (1800 stored)
+   1825/9680  1.30 h elapsed, ~5.59 h left  (1825 stored)
+   1850/9680  1.31 h elapsed, ~5.56 h left  (1850 stored)
+   1875/9680  1.33 h elapsed, ~5.54 h left  (1875 stored)
+   1900/9680  1.35 h elapsed, ~5.52 h left  (1900 stored)
+   1925/9680  1.36 h elapsed, ~5.50 h left  (1925 stored)
+   1950/9680  1.38 h elapsed, ~5.48 h left  (1950 stored)
+   1975/9680  1.40 h elapsed, ~5.45 h left  (1975 stored)
+   2000/9680  1.41 h elapsed, ~5.43 h left  (2000 stored)
+   2025/9680  1.43 h elapsed, ~5.41 h left  (2025 stored)
+   2050/9680  1.45 h elapsed, ~5.39 h left  (2050 stored)
+   2075/9680  1.47 h elapsed, ~5.37 h left  (2075 stored)
+   2100/9680  1.48 h elapsed, ~5.35 h left  (2100 stored)
+   2125/9680  1.51 h elapsed, ~5.35 h left  (2125 stored)
+   2150/9680  1.52 h elapsed, ~5.33 h left  (2150 stored)
+   2175/9680  1.54 h elapsed, ~5.31 h left  (2175 stored)
+   2200/9680  1.56 h elapsed, ~5.29 h left  (2200 stored)
+   2225/9680  1.57 h elapsed, ~5.27 h left  (2225 stored)
+   2250/9680  1.59 h elapsed, ~5.25 h left  (2250 stored)
+   2275/9680  1.61 h elapsed, ~5.23 h left  (2275 stored)
+   2300/9680  1.62 h elapsed, ~5.21 h left  (2300 stored)
+   2325/9680  1.64 h elapsed, ~5.19 h left  (2325 stored)
+   2350/9680  1.66 h elapsed, ~5.17 h left  (2350 stored)
+   2375/9680  1.67 h elapsed, ~5.15 h left  (2375 stored)
+   2400/9680  1.69 h elapsed, ~5.13 h left  (2400 stored)
+   2425/9680  1.71 h elapsed, ~5.13 h left  (2425 stored)
+   2450/9680  1.73 h elapsed, ~5.11 h left  (2450 stored)
+   2475/9680  1.75 h elapsed, ~5.09 h left  (2475 stored)
+   2500/9680  1.76 h elapsed, ~5.07 h left  (2500 stored)
+   2525/9680  1.78 h elapsed, ~5.05 h left  (2525 stored)
+   2550/9680  1.80 h elapsed, ~5.03 h left  (2550 stored)
+   2575/9680  1.81 h elapsed, ~5.01 h left  (2575 stored)
+   2600/9680  1.83 h elapsed, ~4.99 h left  (2600 stored)
+   2625/9680  1.85 h elapsed, ~4.97 h left  (2625 stored)
+   2650/9680  1.87 h elapsed, ~4.95 h left  (2650 stored)
+   2675/9680  1.88 h elapsed, ~4.93 h left  (2675 stored)
+   2700/9680  1.90 h elapsed, ~4.91 h left  (2700 stored)
+   2725/9680  1.92 h elapsed, ~4.91 h left  (2725 stored)
+   2750/9680  1.94 h elapsed, ~4.89 h left  (2750 stored)
+   2775/9680  1.96 h elapsed, ~4.87 h left  (2775 stored)
+   2800/9680  1.97 h elapsed, ~4.85 h left  (2800 stored)
+   2825/9680  1.99 h elapsed, ~4.83 h left  (2825 stored)
+   2850/9680  2.01 h elapsed, ~4.81 h left  (2850 stored)
+   2875/9680  2.02 h elapsed, ~4.79 h left  (2875 stored)
+   2900/9680  2.04 h elapsed, ~4.77 h left  (2900 stored)
+   2925/9680  2.06 h elapsed, ~4.75 h left  (2925 stored)
+   2950/9680  2.07 h elapsed, ~4.73 h left  (2950 stored)
+   2975/9680  2.09 h elapsed, ~4.71 h left  (2975 stored)
+   3000/9680  2.11 h elapsed, ~4.69 h left  (3000 stored)
+   3025/9680  2.13 h elapsed, ~4.69 h left  (3025 stored)
+   3050/9680  2.15 h elapsed, ~4.67 h left  (3050 stored)
+   3075/9680  2.16 h elapsed, ~4.65 h left  (3075 stored)
+   3100/9680  2.18 h elapsed, ~4.63 h left  (3100 stored)
+   3125/9680  2.20 h elapsed, ~4.61 h left  (3125 stored)
+   3150/9680  2.21 h elapsed, ~4.59 h left  (3150 stored)
+   3175/9680  2.23 h elapsed, ~4.57 h left  (3175 stored)
+   3200/9680  2.25 h elapsed, ~4.55 h left  (3200 stored)
+   3225/9680  2.27 h elapsed, ~4.53 h left  (3225 stored)
+   3250/9680  2.28 h elapsed, ~4.51 h left  (3250 stored)
+   3275/9680  2.30 h elapsed, ~4.50 h left  (3275 stored)
+   3300/9680  2.32 h elapsed, ~4.48 h left  (3300 stored)
+   3325/9680  2.34 h elapsed, ~4.47 h left  (3325 stored)
+   3350/9680  2.36 h elapsed, ~4.45 h left  (3350 stored)
+   3375/9680  2.37 h elapsed, ~4.43 h left  (3375 stored)
+   3400/9680  2.39 h elapsed, ~4.41 h left  (3400 stored)
+   3425/9680  2.41 h elapsed, ~4.39 h left  (3425 stored)
+   3450/9680  2.42 h elapsed, ~4.38 h left  (3450 stored)
+   3475/9680  2.44 h elapsed, ~4.36 h left  (3475 stored)
+   3500/9680  2.46 h elapsed, ~4.34 h left  (3500 stored)
+   3525/9680  2.47 h elapsed, ~4.32 h left  (3525 stored)
+   3550/9680  2.49 h elapsed, ~4.30 h left  (3550 stored)
+   3575/9680  2.51 h elapsed, ~4.28 h left  (3575 stored)
+   3600/9680  2.52 h elapsed, ~4.26 h left  (3600 stored)
+   3625/9680  2.55 h elapsed, ~4.26 h left  (3625 stored)
+   3650/9680  2.56 h elapsed, ~4.24 h left  (3650 stored)
+   3675/9680  2.58 h elapsed, ~4.22 h left  (3675 stored)
+   3700/9680  2.60 h elapsed, ~4.20 h left  (3700 stored)
+   3725/9680  2.61 h elapsed, ~4.18 h left  (3725 stored)
+   3750/9680  2.63 h elapsed, ~4.16 h left  (3750 stored)
+   3775/9680  2.65 h elapsed, ~4.14 h left  (3775 stored)
+   3800/9680  2.66 h elapsed, ~4.12 h left  (3800 stored)
+   3825/9680  2.68 h elapsed, ~4.11 h left  (3825 stored)
+   3850/9680  2.70 h elapsed, ~4.09 h left  (3850 stored)
+   3875/9680  2.72 h elapsed, ~4.07 h left  (3875 stored)
+   3900/9680  2.73 h elapsed, ~4.05 h left  (3900 stored)
+   3925/9680  2.76 h elapsed, ~4.04 h left  (3925 stored)
+   3950/9680  2.77 h elapsed, ~4.02 h left  (3950 stored)
+   3975/9680  2.79 h elapsed, ~4.00 h left  (3975 stored)
+   4000/9680  2.81 h elapsed, ~3.99 h left  (4000 stored)
+   4025/9680  2.82 h elapsed, ~3.97 h left  (4025 stored)
+   4050/9680  2.84 h elapsed, ~3.95 h left  (4050 stored)
+   4075/9680  2.86 h elapsed, ~3.93 h left  (4075 stored)
+   4100/9680  2.87 h elapsed, ~3.91 h left  (4100 stored)
+   4125/9680  2.89 h elapsed, ~3.89 h left  (4125 stored)
+   4150/9680  2.91 h elapsed, ~3.87 h left  (4150 stored)
+   4175/9680  2.92 h elapsed, ~3.85 h left  (4175 stored)
+   4200/9680  2.94 h elapsed, ~3.84 h left  (4200 stored)
+   4225/9680  2.96 h elapsed, ~3.83 h left  (4225 stored)
+   4250/9680  2.98 h elapsed, ~3.81 h left  (4250 stored)
+   4275/9680  3.00 h elapsed, ~3.79 h left  (4275 stored)
+   4300/9680  3.01 h elapsed, ~3.77 h left  (4300 stored)
+   4325/9680  3.03 h elapsed, ~3.75 h left  (4325 stored)
+   4350/9680  3.05 h elapsed, ~3.73 h left  (4350 stored)
+   4375/9680  3.06 h elapsed, ~3.72 h left  (4375 stored)
+   4400/9680  3.08 h elapsed, ~3.70 h left  (4400 stored)
+   4425/9680  3.10 h elapsed, ~3.68 h left  (4425 stored)
+   4450/9680  3.12 h elapsed, ~3.66 h left  (4450 stored)
+   4475/9680  3.13 h elapsed, ~3.64 h left  (4475 stored)
+   4500/9680  3.15 h elapsed, ~3.62 h left  (4500 stored)
+   4525/9680  3.17 h elapsed, ~3.61 h left  (4525 stored)
+   4550/9680  3.19 h elapsed, ~3.60 h left  (4550 stored)
+   4575/9680  3.21 h elapsed, ~3.58 h left  (4575 stored)
+   4600/9680  3.22 h elapsed, ~3.56 h left  (4600 stored)
+   4625/9680  3.24 h elapsed, ~3.54 h left  (4625 stored)
+   4650/9680  3.26 h elapsed, ~3.52 h left  (4650 stored)
+   4675/9680  3.27 h elapsed, ~3.50 h left  (4675 stored)
+   4700/9680  3.29 h elapsed, ~3.49 h left  (4700 stored)
+   4725/9680  3.31 h elapsed, ~3.47 h left  (4725 stored)
+   4750/9680  3.32 h elapsed, ~3.45 h left  (4750 stored)
+   4775/9680  3.34 h elapsed, ~3.43 h left  (4775 stored)
+   4800/9680  3.36 h elapsed, ~3.41 h left  (4800 stored)
+   4825/9680  3.38 h elapsed, ~3.40 h left  (4825 stored)
+   4850/9680  3.40 h elapsed, ~3.38 h left  (4850 stored)
+   4875/9680  3.41 h elapsed, ~3.37 h left  (4875 stored)
+   4900/9680  3.43 h elapsed, ~3.35 h left  (4900 stored)
+   4925/9680  3.45 h elapsed, ~3.33 h left  (4925 stored)
+   4950/9680  3.46 h elapsed, ~3.31 h left  (4950 stored)
+   4975/9680  3.48 h elapsed, ~3.29 h left  (4975 stored)
+   5000/9680  3.50 h elapsed, ~3.27 h left  (5000 stored)
+   5025/9680  3.52 h elapsed, ~3.26 h left  (5025 stored)
+   5050/9680  3.53 h elapsed, ~3.24 h left  (5050 stored)
+   5075/9680  3.55 h elapsed, ~3.22 h left  (5075 stored)
+   5100/9680  3.57 h elapsed, ~3.20 h left  (5100 stored)
+   5125/9680  3.59 h elapsed, ~3.19 h left  (5125 stored)
+   5150/9680  3.61 h elapsed, ~3.17 h left  (5150 stored)
+   5175/9680  3.62 h elapsed, ~3.15 h left  (5175 stored)
+   5200/9680  3.64 h elapsed, ~3.14 h left  (5200 stored)
+   5225/9680  3.66 h elapsed, ~3.12 h left  (5225 stored)
+   5250/9680  3.67 h elapsed, ~3.10 h left  (5250 stored)
+   5275/9680  3.69 h elapsed, ~3.08 h left  (5275 stored)
+   5300/9680  3.71 h elapsed, ~3.06 h left  (5300 stored)
+   5325/9680  3.72 h elapsed, ~3.05 h left  (5325 stored)
+   5350/9680  3.74 h elapsed, ~3.03 h left  (5350 stored)
+   5375/9680  3.76 h elapsed, ~3.01 h left  (5375 stored)
+   5400/9680  3.77 h elapsed, ~2.99 h left  (5400 stored)
+   5425/9680  3.80 h elapsed, ~2.98 h left  (5425 stored)
+   5450/9680  3.81 h elapsed, ~2.96 h left  (5450 stored)
+   5475/9680  3.83 h elapsed, ~2.94 h left  (5475 stored)
+   5500/9680  3.85 h elapsed, ~2.92 h left  (5500 stored)
+   5525/9680  3.86 h elapsed, ~2.91 h left  (5525 stored)
+   5550/9680  3.88 h elapsed, ~2.89 h left  (5550 stored)
+   5575/9680  3.90 h elapsed, ~2.87 h left  (5575 stored)
+   5600/9680  3.92 h elapsed, ~2.85 h left  (5600 stored)
+   5625/9680  3.93 h elapsed, ~2.83 h left  (5625 stored)
+   5650/9680  3.95 h elapsed, ~2.82 h left  (5650 stored)
+   5675/9680  3.97 h elapsed, ~2.80 h left  (5675 stored)
+   5700/9680  3.98 h elapsed, ~2.78 h left  (5700 stored)
+   5725/9680  4.01 h elapsed, ~2.77 h left  (5725 stored)
+   5750/9680  4.02 h elapsed, ~2.75 h left  (5750 stored)
+   5775/9680  4.04 h elapsed, ~2.73 h left  (5775 stored)
+   5800/9680  4.06 h elapsed, ~2.71 h left  (5800 stored)
+   5825/9680  4.07 h elapsed, ~2.70 h left  (5825 stored)
+   5850/9680  4.09 h elapsed, ~2.68 h left  (5850 stored)
+   5875/9680  4.11 h elapsed, ~2.66 h left  (5875 stored)
+   5900/9680  4.12 h elapsed, ~2.64 h left  (5900 stored)
+   5925/9680  4.14 h elapsed, ~2.62 h left  (5925 stored)
+   5950/9680  4.16 h elapsed, ~2.61 h left  (5950 stored)
+   5975/9680  4.17 h elapsed, ~2.59 h left  (5975 stored)
+   6000/9680  4.19 h elapsed, ~2.57 h left  (6000 stored)
+   6025/9680  4.21 h elapsed, ~2.56 h left  (6025 stored)
+   6050/9680  4.23 h elapsed, ~2.54 h left  (6050 stored)
+   6075/9680  4.25 h elapsed, ~2.52 h left  (6075 stored)
+   6100/9680  4.26 h elapsed, ~2.50 h left  (6100 stored)
+   6125/9680  4.28 h elapsed, ~2.49 h left  (6125 stored)
+   6150/9680  4.30 h elapsed, ~2.47 h left  (6150 stored)
+   6175/9680  4.31 h elapsed, ~2.45 h left  (6175 stored)
+   6200/9680  4.33 h elapsed, ~2.43 h left  (6200 stored)
+   6225/9680  4.35 h elapsed, ~2.41 h left  (6225 stored)
+   6250/9680  4.37 h elapsed, ~2.40 h left  (6250 stored)
+   6275/9680  4.38 h elapsed, ~2.38 h left  (6275 stored)
+   6300/9680  4.40 h elapsed, ~2.36 h left  (6300 stored)
+   6325/9680  4.42 h elapsed, ~2.35 h left  (6325 stored)
+   6350/9680  4.44 h elapsed, ~2.33 h left  (6350 stored)
+   6375/9680  4.46 h elapsed, ~2.31 h left  (6375 stored)
+   6400/9680  4.47 h elapsed, ~2.29 h left  (6400 stored)
+   6425/9680  4.49 h elapsed, ~2.27 h left  (6425 stored)
+   6450/9680  4.51 h elapsed, ~2.26 h left  (6450 stored)
+   6475/9680  4.52 h elapsed, ~2.24 h left  (6475 stored)
+   6500/9680  4.54 h elapsed, ~2.22 h left  (6500 stored)
+   6525/9680  4.56 h elapsed, ~2.20 h left  (6525 stored)
+   6550/9680  4.57 h elapsed, ~2.19 h left  (6550 stored)
+   6575/9680  4.59 h elapsed, ~2.17 h left  (6575 stored)
+   6600/9680  4.61 h elapsed, ~2.15 h left  (6600 stored)
+   6625/9680  4.63 h elapsed, ~2.14 h left  (6625 stored)
+   6650/9680  4.65 h elapsed, ~2.12 h left  (6650 stored)
+   6675/9680  4.66 h elapsed, ~2.10 h left  (6675 stored)
+   6700/9680  4.68 h elapsed, ~2.08 h left  (6700 stored)
+   6725/9680  4.70 h elapsed, ~2.06 h left  (6725 stored)
+   6750/9680  4.71 h elapsed, ~2.05 h left  (6750 stored)
+   6775/9680  4.73 h elapsed, ~2.03 h left  (6775 stored)
+   6800/9680  4.75 h elapsed, ~2.01 h left  (6800 stored)
+   6825/9680  4.77 h elapsed, ~1.99 h left  (6825 stored)
+   6850/9680  4.78 h elapsed, ~1.98 h left  (6850 stored)
+   6875/9680  4.80 h elapsed, ~1.96 h left  (6875 stored)
+Process SpawnPoolWorker-10:
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 131, in worker
+    put((job, i, result))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 314, in _bootstrap
+    self.run()
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 136, in worker
+    put((job, i, (False, wrapped)))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+Process SpawnPoolWorker-2:
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 131, in worker
+    put((job, i, result))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 314, in _bootstrap
+    self.run()
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 136, in worker
+    put((job, i, (False, wrapped)))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+Process SpawnPoolWorker-12:
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 131, in worker
+    put((job, i, result))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 314, in _bootstrap
+    self.run()
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 136, in worker
+    put((job, i, (False, wrapped)))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+Process SpawnPoolWorker-4:
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 131, in worker
+    put((job, i, result))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 314, in _bootstrap
+    self.run()
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 136, in worker
+    put((job, i, (False, wrapped)))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+Process SpawnPoolWorker-8:
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 131, in worker
+    put((job, i, result))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 314, in _bootstrap
+    self.run()
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 136, in worker
+    put((job, i, (False, wrapped)))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+Process SpawnPoolWorker-6:
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 131, in worker
+    put((job, i, result))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 314, in _bootstrap
+    self.run()
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 136, in worker
+    put((job, i, (False, wrapped)))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+Process SpawnPoolWorker-11:
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 131, in worker
+    put((job, i, result))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 314, in _bootstrap
+    self.run()
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 136, in worker
+    put((job, i, (False, wrapped)))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+Process SpawnPoolWorker-9:
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 131, in worker
+    put((job, i, result))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 314, in _bootstrap
+    self.run()
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 136, in worker
+    put((job, i, (False, wrapped)))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+Process SpawnPoolWorker-7:
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 131, in worker
+    put((job, i, result))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 314, in _bootstrap
+    self.run()
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 136, in worker
+    put((job, i, (False, wrapped)))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+Process SpawnPoolWorker-3:
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 131, in worker
+    put((job, i, result))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 314, in _bootstrap
+    self.run()
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 136, in worker
+    put((job, i, (False, wrapped)))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+Process SpawnPoolWorker-1:
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 131, in worker
+    put((job, i, result))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 314, in _bootstrap
+    self.run()
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 136, in worker
+    put((job, i, (False, wrapped)))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+Process SpawnPoolWorker-5:
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 131, in worker
+    put((job, i, result))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 314, in _bootstrap
+    self.run()
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\pool.py", line 136, in worker
+    put((job, i, (False, wrapped)))
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\queues.py", line 374, in put
+    self._writer.send_bytes(obj)
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "C:\Users\theop\AppData\Local\Programs\Python\Python311\Lib\multiprocessing\connection.py", line 289, in _send_bytes
+    ov, err = _winapi.WriteFile(self._handle, buf, overlapped=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [WinError 232] The pipe is being closed

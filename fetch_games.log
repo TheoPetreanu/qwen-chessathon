@@ -1,0 +1,40 @@
+teams: 22
+  team 1/22  games=18  distinct FENs=18
+  team 2/22  games=36  distinct FENs=32
+  team 3/22  games=54  distinct FENs=47
+  team 4/22  games=72  distinct FENs=58
+  team 5/22  games=90  distinct FENs=66
+  team 6/22  games=108  distinct FENs=77
+  team 7/22  games=126  distinct FENs=84
+  team 8/22  games=144  distinct FENs=86
+  team 9/22  games=162  distinct FENs=88
+  team 10/22  games=180  distinct FENs=91
+  team 11/22  games=198  distinct FENs=98
+  team 12/22  games=216  distinct FENs=106
+  team 13/22  games=234  distinct FENs=111
+  team 14/22  games=252  distinct FENs=115
+  team 15/22  games=270  distinct FENs=127
+  team 16/22  games=288  distinct FENs=134
+  team 17/22  games=306  distinct FENs=141
+  team 18/22  games=324  distinct FENs=143
+  team 19/22  games=342  distinct FENs=149
+  team 20/22  games=360  distinct FENs=153
+  team 21/22  games=378  distinct FENs=158
+  team 22/22  games=396  distinct FENs=162
+
+=== POSITION POOL ===
+games sampled      : 396
+distinct start FENs: 162
+reuse rate         : 2.44 games per position
+most common positions:
+  x8   rnbqk2r/ppp1bppp/4pn2/3p4/2P5/P4NP1/1P1PPPBP/RNBQK2R b KQkq -
+  x8   r1bq1rk1/ppp2pbp/2np1np1/P2Pp3/4P3/2N2N2/1PP1BPPP/R1BQK2R b KQ -
+  x7   r1bqkb1r/1p3ppp/p1np1n2/4p3/4P3/N1N1B3/PPP2PPP/R2QKB1R b KQkq -
+  x6   rnbqkb1r/ppp2ppp/8/3p4/3Pn3/P4N2/1PP2PPP/RNBQKB1R b KQkq -
+  x6   rn1qkb1r/pp2pppp/2p2nb1/8/3P4/2P3N1/PP2NPPP/R1BQKB1R b KQkq -
+  x6   r1bq1rk1/ppp1bppp/2n1pn2/3p4/2P5/1P1P1NP1/P3PPBP/RNBQ1RK1 b - -
+  x6   1rbqk2r/pp2ppbp/2np1np1/2p5/P3P3/2NP1NP1/1PP2PBP/R1BQ1RK1 b k -
+  x6   rnbq1rk1/p1p2ppp/1p3n2/3p4/1b1P4/2NBPN2/PP3PPP/R1BQ1RK1 b - -
+
+distinct FENs within a single round (1 would mean one position per round):
+  round ?    162 distinct

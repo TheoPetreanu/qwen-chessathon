@@ -1,0 +1,164 @@
+teams: 427
+  team 1/427  games=82  distinct FENs=74
+  team 2/427  games=164  distinct FENs=124
+  team 3/427  games=232  distinct FENs=157
+  team 4/427  games=316  distinct FENs=185
+  team 5/427  games=400  distinct FENs=208
+  team 6/427  games=484  distinct FENs=229
+  team 7/427  games=568  distinct FENs=241
+  team 8/427  games=635  distinct FENs=253
+   game 4a5368f6 failed: 'charmap' codec can't encode characters in position 2364-2367: character maps to <undefined>
+  team 9/427  games=718  distinct FENs=262
+  team 10/427  games=782  distinct FENs=268
+  team 11/427  games=866  distinct FENs=273
+  team 12/427  games=928  distinct FENs=274
+  team 13/427  games=1012  distinct FENs=277
+  team 14/427  games=1096  distinct FENs=278
+  team 15/427  games=1180  distinct FENs=287
+  team 16/427  games=1264  distinct FENs=291
+  team 17/427  games=1348  distinct FENs=292
+  team 18/427  games=1409  distinct FENs=293
+  team 19/427  games=1493  distinct FENs=295
+  team 20/427  games=1577  distinct FENs=295
+  team 21/427  games=1661  distinct FENs=296
+  team 22/427  games=1744  distinct FENs=297
+  team 23/427  games=1828  distinct FENs=297
+  team 24/427  games=1912  distinct FENs=300
+  team 25/427  games=1994  distinct FENs=303
+   game a9295d0d failed: 'charmap' codec can't encode character '\u03c0' in position 6079: character maps to <undefined>
+   game 4c4d3469 failed: 'charmap' codec can't encode character '\u03c0' in position 4599: character maps to <undefined>
+   game cef6ef28 failed: 'charmap' codec can't encode character '\u03c0' in position 2168: character maps to <undefined>
+   game 654a65b2 failed: 'charmap' codec can't encode character '\u03c0' in position 4580: character maps to <undefined>
+   game 99f618db failed: 'charmap' codec can't encode character '\u03c0' in position 2024: character maps to <undefined>
+   game 81b3eae1 failed: 'charmap' codec can't encode character '\u03c0' in position 1975: character maps to <undefined>
+   game 4143ae1e failed: 'charmap' codec can't encode character '\u03c0' in position 1599: character maps to <undefined>
+   game cfddd0ff failed: 'charmap' codec can't encode character '\u03c0' in position 3310: character maps to <undefined>
+   game a2d663dd failed: 'charmap' codec can't encode character '\u03c0' in position 2393: character maps to <undefined>
+   game 3e963c34 failed: 'charmap' codec can't encode character '\u03c0' in position 5019: character maps to <undefined>
+   game ad3b0da1 failed: 'charmap' codec can't encode character '\u03c0' in position 5914: character maps to <undefined>
+   game 85c15f5e failed: 'charmap' codec can't encode character '\u03c0' in position 7112: character maps to <undefined>
+   game 0a649a01 failed: 'charmap' codec can't encode character '\u03c0' in position 4319: character maps to <undefined>
+   game 9ff4a9b3 failed: 'charmap' codec can't encode character '\u03c0' in position 2795: character maps to <undefined>
+   game c797b294 failed: 'charmap' codec can't encode character '\u03c0' in position 3571: character maps to <undefined>
+   game 9fd205f7 failed: 'charmap' codec can't encode character '\u03c0' in position 2989: character maps to <undefined>
+   game 13296aaf failed: 'charmap' codec can't encode character '\u03c0' in position 2955: character maps to <undefined>
+   game 0c0b6bbd failed: 'charmap' codec can't encode character '\u03c0' in position 6107: character maps to <undefined>
+   game eaa62ed3 failed: 'charmap' codec can't encode character '\u03c0' in position 2816: character maps to <undefined>
+   game 0c1bb329 failed: 'charmap' codec can't encode character '\u03c0' in position 6033: character maps to <undefined>
+   game cfc64525 failed: 'charmap' codec can't encode character '\u03c0' in position 3367: character maps to <undefined>
+   game 3a728e3e failed: 'charmap' codec can't encode character '\u03c0' in position 5352: character maps to <undefined>
+   game 32516b03 failed: 'charmap' codec can't encode character '\u03c0' in position 4955: character maps to <undefined>
+   game 3f48befe failed: 'charmap' codec can't encode character '\u03c0' in position 2907: character maps to <undefined>
+   game 95f2c594 failed: 'charmap' codec can't encode character '\u03c0' in position 4057: character maps to <undefined>
+   game c4c15cf7 failed: 'charmap' codec can't encode character '\u03c0' in position 3727: character maps to <undefined>
+   game 197d1593 failed: 'charmap' codec can't encode character '\u03c0' in position 5904: character maps to <undefined>
+   game ef8f126f failed: 'charmap' codec can't encode character '\u03c0' in position 5537: character maps to <undefined>
+   game 0dc8195f failed: 'charmap' codec can't encode character '\u03c0' in position 2905: character maps to <undefined>
+   game 15c760da failed: 'charmap' codec can't encode character '\u03c0' in position 1858: character maps to <undefined>
+   game d807a904 failed: 'charmap' codec can't encode character '\u03c0' in position 7254: character maps to <undefined>
+   game b4f7ea75 failed: 'charmap' codec can't encode character '\u03c0' in position 4333: character maps to <undefined>
+   game 1f7cd8d4 failed: 'charmap' codec can't encode character '\u03c0' in position 7212: character maps to <undefined>
+   game 033ce1a6 failed: 'charmap' codec can't encode character '\u03c0' in position 5794: character maps to <undefined>
+   game 4354fcfa failed: 'charmap' codec can't encode character '\u03c0' in position 5862: character maps to <undefined>
+   game b003206c failed: 'charmap' codec can't encode character '\u03c0' in position 1634: character maps to <undefined>
+   game 529457f1 failed: 'charmap' codec can't encode character '\u03c0' in position 3490: character maps to <undefined>
+   game 2a48830a failed: 'charmap' codec can't encode character '\u03c0' in position 3572: character maps to <undefined>
+   game 2b795d4d failed: 'charmap' codec can't encode character '\u03c0' in position 5149: character maps to <undefined>
+   game ea2cd852 failed: 'charmap' codec can't encode character '\u03c0' in position 3122: character maps to <undefined>
+   game cf8e7987 failed: 'charmap' codec can't encode character '\u03c0' in position 4159: character maps to <undefined>
+   game 98502bfc failed: 'charmap' codec can't encode character '\u03c0' in position 4765: character maps to <undefined>
+   game 94e3a58e failed: 'charmap' codec can't encode character '\u03c0' in position 4387: character maps to <undefined>
+   game 5fc81b13 failed: 'charmap' codec can't encode character '\u03c0' in position 3992: character maps to <undefined>
+   game e61fa3ae failed: 'charmap' codec can't encode character '\u03c0' in position 4123: character maps to <undefined>
+   game e958ae36 failed: 'charmap' codec can't encode character '\u03c0' in position 2734: character maps to <undefined>
+   game 647c231e failed: 'charmap' codec can't encode character '\u03c0' in position 5484: character maps to <undefined>
+  team 26/427  games=2031  distinct FENs=303
+  team 27/427  games=2115  distinct FENs=304
+  team 28/427  games=2153  distinct FENs=304
+  team 29/427  games=2237  distinct FENs=305
+  team 30/427  games=2297  distinct FENs=305
+  team 31/427  games=2381  distinct FENs=305
+  team 32/427  games=2426  distinct FENs=306
+  team 33/427  games=2490  distinct FENs=306
+  team 34/427  games=2574  distinct FENs=306
+  team 35/427  games=2658  distinct FENs=306
+  team 36/427  games=2714  distinct FENs=306
+  team 37/427  games=2798  distinct FENs=306
+  team 38/427  games=2877  distinct FENs=306
+  team 39/427  games=2937  distinct FENs=306
+  team 40/427  games=3021  distinct FENs=306
+  team 41/427  games=3096  distinct FENs=306
+  team 42/427  games=3180  distinct FENs=306
+  team 43/427  games=3242  distinct FENs=306
+  team 44/427  games=3326  distinct FENs=307
+  team 45/427  games=3371  distinct FENs=307
+  team 46/427  games=3455  distinct FENs=307
+  team 47/427  games=3539  distinct FENs=307
+  team 48/427  games=3623  distinct FENs=308
+  team 49/427  games=3707  distinct FENs=308
+  team 50/427  games=3758  distinct FENs=308
+  team 51/427  games=3842  distinct FENs=308
+  team 52/427  games=3915  distinct FENs=308
+  team 53/427  games=3999  distinct FENs=308
+  team 54/427  games=4083  distinct FENs=308
+  team 55/427  games=4167  distinct FENs=308
+  team 56/427  games=4251  distinct FENs=308
+  team 57/427  games=4322  distinct FENs=308
+  team 58/427  games=4337  distinct FENs=308
+  team 59/427  games=4421  distinct FENs=308
+  team 60/427  games=4505  distinct FENs=308
+  team 61/427  games=4582  distinct FENs=308
+  team 62/427  games=4666  distinct FENs=308
+  team 63/427  games=4750  distinct FENs=308
+  team 64/427  games=4829  distinct FENs=308
+  team 65/427  games=4913  distinct FENs=308
+  team 66/427  games=4946  distinct FENs=308
+  team 67/427  games=5027  distinct FENs=308
+  team 68/427  games=5044  distinct FENs=308
+  team 69/427  games=5125  distinct FENs=308
+  team 70/427  games=5206  distinct FENs=308
+  team 71/427  games=5290  distinct FENs=308
+  team 72/427  games=5374  distinct FENs=308
+  team 73/427  games=5453  distinct FENs=308
+  team 74/427  games=5498  distinct FENs=308
+  team 75/427  games=5582  distinct FENs=308
+  team 76/427  games=5642  distinct FENs=308
+  team 77/427  games=5665  distinct FENs=308
+  team 78/427  games=5749  distinct FENs=308
+  team 79/427  games=5833  distinct FENs=308
+  team 80/427  games=5863  distinct FENs=308
+  team 81/427  games=5880  distinct FENs=308
+  team 82/427  games=5902  distinct FENs=308
+  team 83/427  games=5986  distinct FENs=308
+  team 84/427  games=6046  distinct FENs=308
+  team 85/427  games=6130  distinct FENs=308
+  team 86/427  games=6214  distinct FENs=308
+  team 87/427  games=6298  distinct FENs=308
+  team 88/427  games=6382  distinct FENs=308
+   game ecfd1857 failed: 'charmap' codec can't encode characters in position 1005-1008: character maps to <undefined>
+  team 89/427  games=6462  distinct FENs=308
+  team 90/427  games=6512  distinct FENs=308
+  team 91/427  games=6596  distinct FENs=308
+  team 92/427  games=6680  distinct FENs=308
+  team 93/427  games=6764  distinct FENs=308
+  team 94/427  games=6848  distinct FENs=308
+  team 95/427  games=6857  distinct FENs=308
+  team 96/427  games=6941  distinct FENs=308
+  team 97/427  games=7008  distinct FENs=308
+  team 98/427  games=7082  distinct FENs=308
+  team 99/427  games=7161  distinct FENs=308
+  team 100/427  games=7238  distinct FENs=308
+  team 101/427  games=7308  distinct FENs=308
+  team 102/427  games=7392  distinct FENs=308
+  team 103/427  games=7402  distinct FENs=308
+  team 104/427  games=7478  distinct FENs=308
+  team 105/427  games=7493  distinct FENs=308
+  team 106/427  games=7577  distinct FENs=308
+  team 107/427  games=7594  distinct FENs=308
+  team 108/427  games=7678  distinct FENs=308
+  team 109/427  games=7762  distinct FENs=308
+  team 110/427  games=7770  distinct FENs=308
+  team 111/427  games=7845  distinct FENs=308
+  team 112/427  games=7929  distinct FENs=308
+  team 113/427  games=7990  distinct FENs=308
+  team 114/427  games=8074  distinct FENs=308

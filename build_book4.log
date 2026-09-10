@@ -1,0 +1,3 @@
+games=14290  targets=25831  cached=24295  todo=3126  workers=6  30000ms each
+targets by our-move depth: d1=1188  d2=9203  d3=15440
+estimated 4.3 h (before contention)

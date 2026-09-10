@@ -1,0 +1,105 @@
+teams: 60
+  team 1/60  games=30  distinct FENs=29
+  team 2/60  games=60  distinct FENs=51
+  team 3/60  games=90  distinct FENs=72
+  team 4/60  games=120  distinct FENs=90
+  team 5/60  games=150  distinct FENs=104
+  team 6/60  games=180  distinct FENs=123
+  team 7/60  games=210  distinct FENs=132
+  team 8/60  games=240  distinct FENs=136
+  team 9/60  games=270  distinct FENs=143
+  team 10/60  games=300  distinct FENs=147
+  team 11/60  games=330  distinct FENs=152
+  team 12/60  games=360  distinct FENs=158
+  team 13/60  games=390  distinct FENs=164
+  team 14/60  games=420  distinct FENs=168
+  team 15/60  games=450  distinct FENs=178
+  team 16/60  games=480  distinct FENs=185
+  team 17/60  games=510  distinct FENs=194
+  team 18/60  games=540  distinct FENs=200
+  team 19/60  games=570  distinct FENs=207
+  team 20/60  games=600  distinct FENs=211
+  team 21/60  games=630  distinct FENs=214
+  team 22/60  games=660  distinct FENs=216
+  team 23/60  games=690  distinct FENs=219
+  team 24/60  games=720  distinct FENs=223
+  team 25/60  games=750  distinct FENs=223
+  team 26/60  games=780  distinct FENs=228
+  team 27/60  games=810  distinct FENs=229
+  team 28/60  games=837  distinct FENs=234
+  team 29/60  games=867  distinct FENs=243
+  team 30/60  games=897  distinct FENs=245
+  team 31/60  games=927  distinct FENs=249
+   game 7e9f9c7c failed: 'charmap' codec can't encode character '\u03c0' in position 3851: character maps to <undefined>
+  team 32/60  games=956  distinct FENs=253
+  team 33/60  games=986  distinct FENs=254
+   game 3dd23d4f failed: 'charmap' codec can't encode character '\u03c0' in position 5225: character maps to <undefined>
+   game 23c1624b failed: 'charmap' codec can't encode character '\u03c0' in position 2540: character maps to <undefined>
+   game 53d2a21e failed: 'charmap' codec can't encode character '\u03c0' in position 3362: character maps to <undefined>
+   game 35ed40f1 failed: 'charmap' codec can't encode character '\u03c0' in position 5431: character maps to <undefined>
+   game ae7d4bde failed: 'charmap' codec can't encode character '\u03c0' in position 6721: character maps to <undefined>
+   game e133f1cb failed: 'charmap' codec can't encode character '\u03c0' in position 3123: character maps to <undefined>
+   game 183c7828 failed: 'charmap' codec can't encode character '\u03c0' in position 5012: character maps to <undefined>
+   game 08e12c9b failed: 'charmap' codec can't encode character '\u03c0' in position 2045: character maps to <undefined>
+   game 1e1c51aa failed: 'charmap' codec can't encode character '\u03c0' in position 6230: character maps to <undefined>
+   game f4efe8d3 failed: 'charmap' codec can't encode character '\u03c0' in position 5361: character maps to <undefined>
+   game 00e8f657 failed: 'charmap' codec can't encode character '\u03c0' in position 2987: character maps to <undefined>
+   game 62e5906b failed: 'charmap' codec can't encode character '\u03c0' in position 4184: character maps to <undefined>
+   game afc7650b failed: 'charmap' codec can't encode character '\u03c0' in position 4607: character maps to <undefined>
+   game e26c517d failed: 'charmap' codec can't encode character '\u03c0' in position 3858: character maps to <undefined>
+   game 3ff45556 failed: 'charmap' codec can't encode character '\u03c0' in position 4693: character maps to <undefined>
+   game 7c7e210a failed: 'charmap' codec can't encode character '\u03c0' in position 4514: character maps to <undefined>
+   game 68b4956c failed: 'charmap' codec can't encode character '\u03c0' in position 5356: character maps to <undefined>
+   game 7084663f failed: 'charmap' codec can't encode character '\u03c0' in position 4298: character maps to <undefined>
+   game 797ffae2 failed: 'charmap' codec can't encode character '\u03c0' in position 2573: character maps to <undefined>
+   game 8969f46e failed: 'charmap' codec can't encode character '\u03c0' in position 5669: character maps to <undefined>
+   game 1b43848a failed: 'charmap' codec can't encode character '\u03c0' in position 4901: character maps to <undefined>
+   game eb4e83b5 failed: 'charmap' codec can't encode character '\u03c0' in position 2855: character maps to <undefined>
+   game b03d99dd failed: 'charmap' codec can't encode character '\u03c0' in position 4527: character maps to <undefined>
+   game 0d1ac40f failed: 'charmap' codec can't encode character '\u03c0' in position 2383: character maps to <undefined>
+   game 1214f766 failed: 'charmap' codec can't encode character '\u03c0' in position 5169: character maps to <undefined>
+   game 0dd53190 failed: 'charmap' codec can't encode character '\u03c0' in position 2768: character maps to <undefined>
+  team 34/60  games=990  distinct FENs=255
+  team 35/60  games=1020  distinct FENs=257
+  team 36/60  games=1050  distinct FENs=260
+  team 37/60  games=1080  distinct FENs=261
+  team 38/60  games=1110  distinct FENs=264
+  team 39/60  games=1140  distinct FENs=264
+  team 40/60  games=1170  distinct FENs=266
+  team 41/60  games=1200  distinct FENs=269
+  team 42/60  games=1230  distinct FENs=273
+  team 43/60  games=1260  distinct FENs=275
+  team 44/60  games=1290  distinct FENs=276
+  team 45/60  games=1320  distinct FENs=278
+  team 46/60  games=1350  distinct FENs=279
+  team 47/60  games=1380  distinct FENs=280
+  team 48/60  games=1410  distinct FENs=281
+  team 49/60  games=1440  distinct FENs=281
+  team 50/60  games=1470  distinct FENs=283
+  team 51/60  games=1500  distinct FENs=285
+  team 52/60  games=1530  distinct FENs=287
+  team 53/60  games=1560  distinct FENs=287
+  team 54/60  games=1590  distinct FENs=290
+  team 55/60  games=1620  distinct FENs=291
+  team 56/60  games=1650  distinct FENs=293
+  team 57/60  games=1680  distinct FENs=295
+  team 58/60  games=1710  distinct FENs=295
+  team 59/60  games=1740  distinct FENs=297
+  team 60/60  games=1770  distinct FENs=297
+
+=== POSITION POOL ===
+games sampled      : 1770
+distinct start FENs: 297
+reuse rate         : 5.96 games per position
+most common positions:
+  x20  rnbqk2r/ppp3pp/3bpn2/3p1p2/3P1B2/4PNP1/PPP2PBP/RN1QK2R b KQkq -
+  x17  r1bqk2r/ppp2pp1/2np1n1p/2b1p3/4P3/1BPP1N2/PP3PPP/RNBQ1RK1 b kq -
+  x16  r1bqkb1r/ppp2ppp/2n2n2/3p4/3NP3/5P2/PPP3PP/RNBQKB1R w KQkq -
+  x16  r1bq1rk1/pp2ppbp/2np1np1/2pP4/2P5/2N2NP1/PP2PPBP/R1BQ1RK1 b - -
+  x16  r1bq1rk1/ppp1bppp/2np1n2/4p3/P1B1P3/2PP1N2/1P3PPP/RNBQ1RK1 b - -
+  x16  r1bqk2r/1p2ppbp/p1np1np1/2p5/P3P3/2NPB1P1/1PP2PBP/R2QK1NR w KQkq -
+  x16  r1bq1rk1/ppp2pbp/2np1np1/P2Pp3/4P3/2N2N2/1PP1BPPP/R1BQK2R b KQ -
+  x14  rnbq1rk1/ppp2ppp/5n2/3p4/1b1P4/2NBP3/PP3PPP/R1BQK1NR w KQ -
+
+distinct FENs within a single round (1 would mean one position per round):
+  round ?    297 distinct
